@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import Form from './Form';
-import List from './List';
 import Table from './Table';
 
 function App() {
